@@ -3,7 +3,7 @@
 - [[CAFSA]]
 
 # Prerequisites
-- Need to find out more about [[Prerequisites]]
+- Need to find out more about [[2 - Prerequisites]]
 
 # Clubs
 - Gather what clubs exist and what I can create.
