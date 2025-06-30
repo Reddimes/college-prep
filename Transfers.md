@@ -1,0 +1,7 @@
+- [ ] Classes to transfer:
+	- [ ] Core Comp. I
+	- [ ] Data Structures
+	- [ ] Comp. Organization
+	- [ ] World Lit. II
+	- [ ] 
+- [ ] See Email from Claire
