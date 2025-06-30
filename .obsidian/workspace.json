@@ -79,12 +79,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tasks/4 - Military.md",
+                "file": "Tasks/1 - Financial.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4 - Military"
+              "title": "1 - Financial"
             }
           }
         ],
@@ -269,10 +269,10 @@
   },
   "active": "3e3fa49da1fa2196",
   "lastOpenFiles": [
+    "Tasks/2 - Prerequisites.md",
+    "Tasks/4 - Military.md",
     "Tasks/5 - Classes.md",
     "Transfers.md",
-    "Tasks/4 - Military.md",
-    "Tasks/2 - Prerequisites.md",
     "Tasks/Classes Wanted.md",
     "Tasks/Credits Needed.md",
     "Classes Wanted.md",

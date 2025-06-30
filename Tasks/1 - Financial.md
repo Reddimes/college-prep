@@ -4,4 +4,5 @@ tags:
 ---
 Financial Aid
 - [ ] [[FAFSA]]
-- [ ] [[CAFSA]]
+- [x] [[CAFSA]]
+	- [x] Only for Not citizens?
