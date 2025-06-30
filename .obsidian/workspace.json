@@ -186,7 +186,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 569.5
+    "width": 306.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -199,8 +199,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3b6f989dd82ed223",
+  "active": "cb6e4686941f9762",
   "lastOpenFiles": [
+    "Prerequisites.md",
     "Full Prep.md",
     "Transfers.md",
     "Test 1.md",
