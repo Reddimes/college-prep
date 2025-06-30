@@ -1,3 +1,8 @@
+---
+tags:
+  - Classes
+---
+
 - [ ] Classes to transfer:
 	- [ ] Core Comp. I
 	- [ ] Data Structures
