@@ -2,7 +2,7 @@
 tags:
   - Military
 ---
-- [x] Talk to VMSS
+<del>- [ ] Talk to VMSS</del>
 	- [ ] The following Stuff needs to be in order up until the Military Experience Form
 - [x] Apply for VA Benefits
 - [x] Apply to CU Denver and be admitted.
