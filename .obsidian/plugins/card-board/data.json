@@ -5,10 +5,26 @@
       {
         "columns": [
           {
+            "tag": "namedTag",
+            "data": {
+              "collapsed": false,
+              "name": "Financial",
+              "tag": "Financial"
+            }
+          },
+          {
             "tag": "untagged",
             "data": {
               "collapsed": false,
               "name": "Untagged"
+            }
+          },
+          {
+            "tag": "namedTag",
+            "data": {
+              "collapsed": false,
+              "name": "Prerquisites",
+              "tag": "Prerequisites"
             }
           },
           {
@@ -22,7 +38,7 @@
             "tag": "completed",
             "data": {
               "collapsed": false,
-              "index": 2,
+              "index": 4,
               "limit": 10,
               "name": "Completed"
             }
