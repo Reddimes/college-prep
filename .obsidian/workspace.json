@@ -20,8 +20,19 @@
               "icon": "lucide-file",
               "title": "Full Prep"
             }
+          },
+          {
+            "id": "920705c2570b721e",
+            "type": "leaf",
+            "state": {
+              "type": "card-board-view",
+              "state": {},
+              "icon": "card-board",
+              "title": "CardBoard"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -192,6 +203,7 @@
     "hiddenItems": {
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
+      "card-board:CardBoard": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
@@ -199,10 +211,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "dd16e4e2262e9f3b",
+  "active": "3b6f989dd82ed223",
   "lastOpenFiles": [
+    "Untitled/Untitled.md",
     "Full Prep.md",
-    "Untitled.md",
+    "Untitled",
     "Prerequisites.md",
     "Transfers.md",
     "Test 1.md",
