@@ -5,23 +5,30 @@
       {
         "columns": [
           {
-            "tag": "dated",
+            "tag": "untagged",
             "data": {
               "collapsed": false,
-              "name": "test",
-              "range": {
-                "tag": "before",
-                "data": 0
-              }
+              "name": "Untagged"
+            }
+          },
+          {
+            "tag": "otherTags",
+            "data": {
+              "collapsed": false,
+              "name": "Other Tags"
+            }
+          },
+          {
+            "tag": "completed",
+            "data": {
+              "collapsed": false,
+              "index": 2,
+              "limit": 10,
+              "name": "Completed"
             }
           }
         ],
-        "filters": [
-          {
-            "tag": "pathFilter",
-            "data": "Untitled"
-          }
-        ],
+        "filters": [],
         "filterPolarity": "Allow",
         "filterScope": "Both",
         "name": "Test",
