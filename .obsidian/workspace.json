@@ -170,6 +170,16 @@
               "icon": "lucide-git-fork",
               "title": "Graph view"
             }
+          },
+          {
+            "id": "dc8b92129f9186e4",
+            "type": "leaf",
+            "state": {
+              "type": "git-history-view",
+              "state": {},
+              "icon": "history",
+              "title": "History"
+            }
           }
         ],
         "currentTab": 4
@@ -189,7 +199,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "60b06df3a6e004a3",
+  "active": "3b6f989dd82ed223",
   "lastOpenFiles": [
     "Full Prep.md",
     "Transfers.md",

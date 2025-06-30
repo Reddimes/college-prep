@@ -1,0 +1,11 @@
+{
+  "obsidian-git:open-history-view": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "H"
+    }
+  ]
+}
