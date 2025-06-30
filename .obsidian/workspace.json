@@ -249,7 +249,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -267,7 +267,7 @@
       "card-board:CardBoard": false
     }
   },
-  "active": "3e3fa49da1fa2196",
+  "active": "3b6f989dd82ed223",
   "lastOpenFiles": [
     "Tasks/2 - Prerequisites.md",
     "Tasks/4 - Military.md",
