@@ -36,7 +36,7 @@
             }
           },
           {
-            "id": "f7f0c70ac4404471",
+            "id": "8ec6be104a066927",
             "type": "leaf",
             "state": {
               "type": "card-board-view",
@@ -78,7 +78,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Financial",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -99,7 +99,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -225,7 +226,7 @@
       "card-board:CardBoard": false
     }
   },
-  "active": "f7f0c70ac4404471",
+  "active": "5cb50356b20edf98",
   "lastOpenFiles": [
     "Tasks/Financial.md",
     "Tasks",
