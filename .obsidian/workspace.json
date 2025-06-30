@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "2ecd041861ba0902",
+        "id": "6fcb0e4af1e81cc2",
         "type": "tabs",
         "children": [
           {
-            "id": "cb6e4686941f9762",
+            "id": "27dafd4dff166965",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "Full Prep.md",
-                "mode": "source",
-                "source": false
+                "aFile": "Full Prep.md",
+                "bFile": "Full Prep.md",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "Full Prep"
+              "icon": "diff",
+              "title": "Diff: Full Prep"
             }
           }
         ]
@@ -199,10 +199,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cb6e4686941f9762",
+  "active": "27dafd4dff166965",
   "lastOpenFiles": [
-    "Prerequisites.md",
     "Full Prep.md",
+    "Prerequisites.md",
     "Transfers.md",
     "Test 1.md",
     "Test.md"
