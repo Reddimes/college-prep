@@ -1,4 +1,4 @@
-# Financial 1
+# Financial
 - [[FAFSA]]
 - [[CAFSA]]
 
