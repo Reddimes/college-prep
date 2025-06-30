@@ -21,6 +21,14 @@
             }
           },
           {
+            "tag": "namedTag",
+            "data": {
+              "collapsed": false,
+              "name": "Clubs",
+              "tag": "Clubs"
+            }
+          },
+          {
             "tag": "untagged",
             "data": {
               "collapsed": false,
@@ -38,17 +46,9 @@
             "tag": "completed",
             "data": {
               "collapsed": false,
-              "index": 4,
+              "index": 5,
               "limit": 10,
               "name": "Completed"
-            }
-          },
-          {
-            "tag": "namedTag",
-            "data": {
-              "collapsed": false,
-              "name": "Clubs",
-              "tag": "Clubs"
             }
           }
         ],
