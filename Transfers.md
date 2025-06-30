@@ -4,4 +4,5 @@
 	- [ ] Comp. Organization
 	- [ ] World Lit. II
 	- [ ] Engineering Physics I
+	- [ ] Intro to Programming
 - [ ] See Email from Claire
