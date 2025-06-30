@@ -3,5 +3,5 @@
 	- [ ] Data Structures
 	- [ ] Comp. Organization
 	- [ ] World Lit. II
-	- [ ] 
+	- [ ] Engineering Physics I
 - [ ] See Email from Claire
