@@ -1,0 +1,9 @@
+{
+  "promptCommitMsg": true,
+  "enableNavColorUpdater": true,
+  "gitChangesWidgetActive": true,
+  "gitSyncWidgetActive": true,
+  "navColorStyle": "colored-text",
+  "autoSyncOnStartup": true,
+  "autoSyncFrequency": 5
+}
