@@ -4,6 +4,6 @@ tags:
 ---
 
 - [ ] Find out about [[Transfers]]
-- [ ] Find out [[ALEKS]]
-- [ ] [[Credits Needed]]
+- [x] Find out [[ALEKS]] @completed(2025-07-01T12:19:17-06:00)
+<del>- [ ] [[Credits Needed]]</del>
 	- [ ] [[Classes Wanted]]:
