@@ -31,8 +31,7 @@
               "title": "CardBoard"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -211,7 +210,7 @@
       "card-board:CardBoard": false
     }
   },
-  "active": "21b444cf509dee54",
+  "active": "3f992018f4089af5",
   "lastOpenFiles": [
     "Tasks/5 - Classes.md",
     "Transfers.md",
