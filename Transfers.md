@@ -10,6 +10,7 @@ tags:
 - [ ] World Literature II - TX-ACU: ENGL232
 - [ ] Engineering Physics I - TX-ACU: PHYS220, TX-ACU: PHYS221
 - [ ] Global Connections since 1400 - TX-ACU: HIST131
+	- [ ] Survey of the economic, political, and cultural interactions between major world regions and civilizations from the fifteenth century to the present, with attention to major global processes and movements. May be used to satisfy University Requirements.
 
 
 - [ ] Intro to Computer Science - WV-APUS: ITCC121
