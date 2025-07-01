@@ -22,16 +22,6 @@
             }
           },
           {
-            "id": "c232fe01b791677b",
-            "type": "leaf",
-            "state": {
-              "type": "card-board-view",
-              "state": {},
-              "icon": "card-board",
-              "title": "CardBoard"
-            }
-          },
-          {
             "id": "61586ba9622b21ba",
             "type": "leaf",
             "state": {
@@ -43,6 +33,16 @@
               },
               "icon": "lucide-file",
               "title": "Full Prep"
+            }
+          },
+          {
+            "id": "66718cba11764707",
+            "type": "leaf",
+            "state": {
+              "type": "card-board-view",
+              "state": {},
+              "icon": "card-board",
+              "title": "CardBoard"
             }
           }
         ],
@@ -211,7 +211,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 414.5
+    "width": 414.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -225,7 +226,7 @@
       "card-board:CardBoard": false
     }
   },
-  "active": "61586ba9622b21ba",
+  "active": "66718cba11764707",
   "lastOpenFiles": [
     "FAFSA.md",
     "Full Prep.md",
