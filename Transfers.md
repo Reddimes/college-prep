@@ -18,9 +18,9 @@ tags:
 		Survey of the economic, political, and cultural interactions between major world regions and civilizations from the fifteenth century to the present, with attention to major global processes and movements. May be used to satisfy University Requirements.
 
 
-- [ ] Intro to Computer Science - WV-APUS: ITCC121
+- [x] Intro to Computer Science - WV-APUS: ITCC121
 	- [ ] Summer 2013
-- [ ] Fund of Programming - WV-APUS: ENTD200
+- [x] Fund of Programming - WV-APUS: ENTD200
 	- [ ] Spring 2014
 - [ ] Programming II: Data Struct - TX-ACU: CS 130
 - [ ] Computer Organization - TX-ACU: CS 220
