@@ -19,6 +19,8 @@ tags:
 
 
 - [ ] Intro to Computer Science - WV-APUS: ITCC121
+	- [ ] Summer 2013
 - [ ] Fund of Programming - WV-APUS: ENTD200
+	- [ ] Spring 2014
 - [ ] Programming II: Data Struct - TX-ACU: CS 130
 - [ ] Computer Organization - TX-ACU: CS 220
