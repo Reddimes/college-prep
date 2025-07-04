@@ -8,8 +8,8 @@
             "tag": "namedTag",
             "data": {
               "collapsed": false,
-              "name": "Financial",
-              "tag": "Financial"
+              "name": "Personal",
+              "tag": "Personal"
             }
           },
           {
@@ -45,14 +45,6 @@
             }
           },
           {
-            "tag": "namedTag",
-            "data": {
-              "collapsed": false,
-              "name": "Personal",
-              "tag": "Personal"
-            }
-          },
-          {
             "tag": "untagged",
             "data": {
               "collapsed": false,
@@ -70,7 +62,7 @@
             "tag": "completed",
             "data": {
               "collapsed": false,
-              "index": 8,
+              "index": 7,
               "limit": 10,
               "name": "Completed"
             }

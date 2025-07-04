@@ -4,9 +4,14 @@ tags:
 ---
 - [ ] Organize Tools
 - [ ] Rebuild OMV
-- [ ] Exercise?
+	- [x] File Transfer
+	- [ ] Need to transfer containers and run some setup
+- [ ] Exercise
+	- [ ] TRS
+		- [ ] Need planned workouts
 - [ ] Algo-Trading
 	- [ ] Need to test vectorbt pro
-	- [ ] Deploy to Cloudstack as K8S
+	- [ ] Plan K8S Deployment
 		- [ ] Forward Testing
+		- [ ] Live Trading?
 - [ ] Meal Planning
