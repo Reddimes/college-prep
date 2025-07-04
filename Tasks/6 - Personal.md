@@ -9,3 +9,4 @@ tags:
 	- [ ] Need to test vectorbt pro
 	- [ ] Deploy to Cloudstack as K8S
 		- [ ] Forward Testing
+- [ ] Meal Planning

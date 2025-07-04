@@ -45,6 +45,14 @@
             }
           },
           {
+            "tag": "namedTag",
+            "data": {
+              "collapsed": false,
+              "name": "Personal",
+              "tag": "Personal"
+            }
+          },
+          {
             "tag": "untagged",
             "data": {
               "collapsed": false,
@@ -62,17 +70,9 @@
             "tag": "completed",
             "data": {
               "collapsed": false,
-              "index": 7,
+              "index": 8,
               "limit": 10,
               "name": "Completed"
-            }
-          },
-          {
-            "tag": "namedTag",
-            "data": {
-              "collapsed": false,
-              "name": "Personal",
-              "tag": "Personal"
             }
           }
         ],
