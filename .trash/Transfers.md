@@ -3,6 +3,7 @@ tags:
   - Classes
 ---
 
+
 - [x] Core Composition I - WV-APUS: ENGL101
 - [x] Presentational Speaking - WV-APUS: COMM200
 
@@ -15,6 +16,8 @@ tags:
 - [x] Global Connections since 1400 - TX-ACU: HIST131
 	- [x] Fall 2016
 	- [x] Survey of the economic, political, and cultural interactions between major world regions and civilizations from the fifteenth century to the present, with attention to major global processes and movements. May be used to satisfy University Requirements.
+
+
 - [x] Intro to Computer Science - WV-APUS: ITCC121
 	- [x] Summer 2013
 - [x] Fund of Programming - WV-APUS: ENTD200

@@ -5,6 +5,7 @@ tags:
 - [ ] Organize Tools
 - [ ] Rebuild OMV
 	- [x] File Transfer
+	- [ ] Fix File Permissions
 	- [ ] Need to transfer containers and run some setup
 - [ ] Exercise
 	- [ ] TRS
