@@ -1,0 +1,11 @@
+---
+tags:
+  - Personal
+---
+- [ ] Organize Tools
+- [ ] Rebuild OMV
+- [ ] Exercise?
+- [ ] Algo-Trading
+	- [ ] Need to test vectorbt pro
+	- [ ] Deploy to Cloudstack as K8S
+		- [ ] Forward Testing

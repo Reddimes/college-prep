@@ -66,6 +66,14 @@
               "limit": 10,
               "name": "Completed"
             }
+          },
+          {
+            "tag": "namedTag",
+            "data": {
+              "collapsed": false,
+              "name": "Personal",
+              "tag": "Personal"
+            }
           }
         ],
         "filters": [],
