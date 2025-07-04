@@ -1,9 +1,8 @@
 ---
 tags:
-  - Prerequisites
+  - To-Do
 ---
 
 - [ ] [[Research Prerequisites]]
-	- [ ] [[ALEKS Placement]] - Not necessary
+	- [x] [[ALEKS Placement]] - Not necessary
 	- [ ] Maybe Khan Academy Course to refresh
-	- [ ] 

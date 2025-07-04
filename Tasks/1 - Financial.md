@@ -1,6 +1,6 @@
 ---
 tags:
-  - Financial
+  - To-Do
 ---
 Financial Aid
 - [x] [[FAFSA]] @completed(2025-07-04T15:12:43-06:00)

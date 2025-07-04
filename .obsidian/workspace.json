@@ -34,8 +34,19 @@
               "icon": "lucide-file",
               "title": "6 - Personal"
             }
+          },
+          {
+            "id": "8318914fa9c21645",
+            "type": "leaf",
+            "state": {
+              "type": "card-board-view",
+              "state": {},
+              "icon": "card-board",
+              "title": "CardBoard"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -214,17 +225,17 @@
       "card-board:CardBoard": false
     }
   },
-  "active": "3f992018f4089af5",
+  "active": "8318914fa9c21645",
   "lastOpenFiles": [
     "Tasks/6 - Personal.md",
     "Tasks/5 - Classes.md",
+    "Tasks/4 - Military.md",
+    "Tasks/3 - Clubs.md",
+    "Tasks/2 - Prerequisites.md",
+    "Tasks/1 - Financial.md",
     "Transfers.md",
     "Full Prep.md",
     "FAFSA.md",
-    "Tasks/4 - Military.md",
-    "Tasks/2 - Prerequisites.md",
-    "Tasks/3 - Clubs.md",
-    "Tasks/1 - Financial.md",
     "Tasks",
     "Prerequisites.md",
     "Test 1.md",

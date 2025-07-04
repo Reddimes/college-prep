@@ -1,6 +1,6 @@
 ---
 tags:
-  - Classes
+  - To-Do
 ---
 
 - [x] Core Composition I - WV-APUS: ENGL101

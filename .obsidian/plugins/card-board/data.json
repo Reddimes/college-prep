@@ -16,45 +16,21 @@
             "tag": "namedTag",
             "data": {
               "collapsed": false,
-              "name": "Prerquisites",
-              "tag": "Prerequisites"
-            }
-          },
-          {
-            "tag": "namedTag",
-            "data": {
-              "collapsed": false,
-              "name": "Clubs",
-              "tag": "Clubs"
-            }
-          },
-          {
-            "tag": "namedTag",
-            "data": {
-              "collapsed": false,
-              "name": "Military",
-              "tag": "Military"
-            }
-          },
-          {
-            "tag": "namedTag",
-            "data": {
-              "collapsed": false,
-              "name": "Classes",
-              "tag": "Classes"
+              "name": "To-do",
+              "tag": "To-Do"
             }
           },
           {
             "tag": "untagged",
             "data": {
-              "collapsed": false,
+              "collapsed": true,
               "name": "Untagged"
             }
           },
           {
             "tag": "otherTags",
             "data": {
-              "collapsed": false,
+              "collapsed": true,
               "name": "Other Tags"
             }
           },
@@ -62,7 +38,7 @@
             "tag": "completed",
             "data": {
               "collapsed": false,
-              "index": 7,
+              "index": 4,
               "limit": 10,
               "name": "Completed"
             }

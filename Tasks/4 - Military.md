@@ -1,9 +1,9 @@
 ---
 tags:
-  - Military
+  - To-Do
 ---
-<del>- [ ] Talk to VMSS</del>
-	- [ ] The following Stuff needs to be in order up until the Military Experience Form
+- [x] Talk to VMSS
+	- [x] The following Stuff needs to be in order up until the Military Experience Form
 - [x] Apply for VA Benefits
 - [x] Apply to CU Denver and be admitted.
 - [x] [FAFSA](https://studentaid.gov/h/apply-for-aid/fafsa) @completed(2025-07-01T11:21:05-06:00)
