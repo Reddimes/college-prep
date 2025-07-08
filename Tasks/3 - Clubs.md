@@ -4,4 +4,4 @@ tags:
 ---
 
 - [ ] Gather what clubs exist and what I can create.
-- [ ] Join [[Honor Society]]
+- [ ] Join [[Notes/Honor Society]]

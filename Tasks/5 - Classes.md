@@ -20,4 +20,4 @@ tags:
 - [x] Fund of Programming - WV-APUS: ENTD200
 	- [x] Spring 2014
 - [x] Programming II: Data Struct - TX-ACU: CS 130
-- [ ] Computer Organization - TX-ACU: CS 220
+- [x] Computer Organization - TX-ACU: CS 220
