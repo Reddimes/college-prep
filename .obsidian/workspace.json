@@ -16,9 +16,15 @@
               "icon": "card-board",
               "title": "CardBoard"
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "56b3a694f76f37b8",
+        "type": "tabs",
+        "children": [
           {
-            "id": "7e775ee36e856a09",
+            "id": "2bad47d220a4cb8b",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -31,8 +37,7 @@
               "title": "7 - Disability"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -212,8 +217,9 @@
       "card-board:CardBoard": false
     }
   },
-  "active": "7e775ee36e856a09",
+  "active": "2bad47d220a4cb8b",
   "lastOpenFiles": [
+    "nprc.gov.md",
     "Tasks/7 - Disability.md",
     "Tasks/6 - Personal.md",
     "conflict-files-obsidian-git.md",
