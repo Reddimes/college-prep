@@ -8,7 +8,7 @@ tags:
 	- [ ] Fix File Permissions
 	- [ ] Need to transfer containers and run some setup
 - [ ] Exercise
-	- [ ] TRS
+	- [ ] TRX
 		- [ ] Need planned workouts
 - [ ] Algo-Trading
 	- [ ] Need to test vectorbt pro
