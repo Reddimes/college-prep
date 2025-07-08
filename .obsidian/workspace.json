@@ -18,7 +18,7 @@
             }
           },
           {
-            "id": "5d9582913298ac7b",
+            "id": "7e775ee36e856a09",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -197,7 +197,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 414.5
+    "width": 414.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -211,11 +212,11 @@
       "card-board:CardBoard": false
     }
   },
-  "active": "3b6f989dd82ed223",
+  "active": "7e775ee36e856a09",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "Tasks/7 - Disability.md",
     "Tasks/6 - Personal.md",
+    "conflict-files-obsidian-git.md",
     "Tasks/1 - Financial.md",
     "Tasks/5 - Classes.md",
     "Tasks/2 - Prerequisites.md",
