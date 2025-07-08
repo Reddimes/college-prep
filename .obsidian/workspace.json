@@ -31,8 +31,7 @@
               "title": "6 - Personal"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -197,7 +196,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 414.5
+    "width": 414.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -211,8 +211,9 @@
       "card-board:CardBoard": false
     }
   },
-  "active": "fbd12a4f7dcc80b7",
+  "active": "8318914fa9c21645",
   "lastOpenFiles": [
+    "Tasks/6 - Personal.md",
     "Tasks/5 - Classes.md",
     "Tasks/4 - Military.md",
     "Tasks/3 - Clubs.md",
@@ -220,7 +221,6 @@
     "Tasks/1 - Financial.md",
     "Notes/Honor Society.md",
     "Notes",
-    "Tasks/6 - Personal.md",
     "Transfers.md",
     "Full Prep.md",
     "FAFSA.md",
