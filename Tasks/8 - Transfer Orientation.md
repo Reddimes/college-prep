@@ -8,7 +8,7 @@
 	- [ ] ENGR1200 - Fundimental Engineering Design Innovation
 		- [ ] Likely switch for PHYS
 	- [x] CSCI2312 - Object Oriented Programming
-	- [ ] CSCI1510 - Logic
+	- [x] CSCI1510 - Logic
 	- [ ] MATH 2411 - Calculus II
 	- [ ] ARTS
 	- [ ] ~PHYS~
