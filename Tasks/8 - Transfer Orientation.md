@@ -10,5 +10,6 @@
 	- [ ] CSCI2312 - Object Oriented Programming
 	- [ ] CSCI1510 - Logic
 	- [ ] MATH 2411 - Calculus II
-	- [ ] PHYS
+	- [ ] ~PHYS~
+	- [ ] ARTS
 	- [ ] 
