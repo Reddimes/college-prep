@@ -6,7 +6,7 @@
 	- [x] Honor Society
 - [ ] Classes that are Required:
 	- [x] ENGR1200 - Fundimental Engineering Design Innovation
-		- [ ] Likely switch for PHYS
+		- [x] Likely switch for PHYS
 	- [ ] CSCI2312 - Object Oriented Programming
 	- [x] CSCI1510 - Logic
 	- [x] MATH 2411 - Calculus II
