@@ -221,12 +221,11 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 558.5,
-    "collapsed": true
+    "width": 558.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -240,7 +239,7 @@
       "card-board:CardBoard": false
     }
   },
-  "active": "d13626d410e8a09a",
+  "active": "3b6f989dd82ed223",
   "lastOpenFiles": [
     "CAFSA.md",
     "Tasks/8 - Transfer Orientation.md",
