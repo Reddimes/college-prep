@@ -9,7 +9,7 @@
 		- [ ] Likely switch for PHYS
 	- [x] CSCI2312 - Object Oriented Programming
 	- [x] CSCI1510 - Logic
-	- [ ] MATH 2411 - Calculus II
+	- [x] MATH 2411 - Calculus II
 	- [ ] ARTS
 	- [ ] ~PHYS~
 		- [ ] This will bring me back up to 18 credits.
