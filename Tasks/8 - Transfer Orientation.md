@@ -4,7 +4,7 @@
 	- [ ] 
 	- [ ] COF Application
 	- [ ] FAFSA
-	- [ ] Honor Society
+	- [x] Honor Society
 - [ ] Classes that are Required:
 	- [ ] ENGR1200 - Fundimental Engineering Design Innovation
 		- [ ] Likely switch for PHYS
