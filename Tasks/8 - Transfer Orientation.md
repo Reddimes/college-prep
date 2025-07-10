@@ -1,4 +1,4 @@
 - [ ] Disclosure link.
-- [ ] Advisor Questions
+- [ ] Orientation Questions
 	- [ ] What classes can I take?
 	- [ ] 
