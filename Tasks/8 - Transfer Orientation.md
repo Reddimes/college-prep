@@ -1,6 +1,14 @@
 - [ ] Disclosure link.
 - [ ] Orientation Questions
 	- [ ] What classes can I take?
+	- [ ] 
 	- [ ] COF Application
 	- [ ] FAFSA
 	- [ ] Honor Society
+- [ ] Classes that are Required:
+	- [ ] ENGR1200 - Fundimental Engineering Design Innovation
+	- [ ] CSCI2312 - Object Oriented Programming
+	- [ ] CSCI1510 - Logic
+	- [ ] MATH 2411 - Calculus II
+	- [ ] PHYS
+	- [ ] 
