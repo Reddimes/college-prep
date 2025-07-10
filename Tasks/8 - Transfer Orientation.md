@@ -5,7 +5,7 @@
 	- [ ] FAFSA
 	- [x] Honor Society
 - [ ] Classes that are Required:
-	- [ ] ENGR1200 - Fundimental Engineering Design Innovation
+	- [x] ENGR1200 - Fundimental Engineering Design Innovation
 		- [ ] Likely switch for PHYS
 	- [x] CSCI2312 - Object Oriented Programming
 	- [x] CSCI1510 - Logic
