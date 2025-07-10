@@ -225,7 +225,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 414.5
+    "width": 1508.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -241,6 +241,7 @@
   },
   "active": "13e0bab03c630893",
   "lastOpenFiles": [
+    "CAFSA.md",
     "Tasks/8 - Transfer Orientation.md",
     "nprc.gov.md",
     "Testing.md",
