@@ -1,4 +1,4 @@
 - [ ] Disclosure link.
 - [ ] Orientation Questions
 	- [ ] What classes can I take?
-	- [ ] 
+	- [ ] COF Application
