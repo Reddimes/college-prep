@@ -59,7 +59,8 @@
               "title": "8 - Transfer Orientation"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -239,7 +240,7 @@
       "card-board:CardBoard": false
     }
   },
-  "active": "8318914fa9c21645",
+  "active": "d13626d410e8a09a",
   "lastOpenFiles": [
     "Tasks/3 - Clubs.md",
     "Tasks/8 - Transfer Orientation.md",
