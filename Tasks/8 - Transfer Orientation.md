@@ -7,7 +7,7 @@
 - [ ] Classes that are Required:
 	- [ ] ENGR1200 - Fundimental Engineering Design Innovation
 		- [ ] Likely switch for PHYS
-	- [ ] CSCI2312 - Object Oriented Programming
+	- [x] CSCI2312 - Object Oriented Programming
 	- [ ] CSCI1510 - Logic
 	- [ ] MATH 2411 - Calculus II
 	- [ ] ARTS
