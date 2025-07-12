@@ -45,8 +45,7 @@
               "title": "2025-07-12"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -225,7 +224,7 @@
       "card-board:CardBoard": false
     }
   },
-  "active": "556ce782aa4e275a",
+  "active": "8fd3e72af312ef55",
   "lastOpenFiles": [
     "Tasks/8 - Transfer Orientation.md",
     "Tasks/Daily/2025-07-12.md",
