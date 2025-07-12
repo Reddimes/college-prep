@@ -8,16 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8fd3e72af312ef55",
-            "type": "leaf",
-            "state": {
-              "type": "card-board-view",
-              "state": {},
-              "icon": "card-board",
-              "title": "CardBoard"
-            }
-          },
-          {
             "id": "f281f760e9e4ee7b",
             "type": "leaf",
             "state": {
@@ -29,6 +19,16 @@
               },
               "icon": "lucide-file",
               "title": "8 - Transfer Orientation"
+            }
+          },
+          {
+            "id": "c33f2d8a17221621",
+            "type": "leaf",
+            "state": {
+              "type": "card-board-view",
+              "state": {},
+              "icon": "card-board",
+              "title": "CardBoard"
             }
           },
           {
@@ -45,7 +45,8 @@
               "title": "2025-07-12"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -224,10 +225,10 @@
       "card-board:CardBoard": false
     }
   },
-  "active": "8fd3e72af312ef55",
+  "active": "c33f2d8a17221621",
   "lastOpenFiles": [
-    "Tasks/8 - Transfer Orientation.md",
     "Tasks/Daily/2025-07-12.md",
+    "Tasks/8 - Transfer Orientation.md",
     "Tasks/7 - Disability.md",
     "Tasks/Daily",
     "Tasks/6 - Personal.md",

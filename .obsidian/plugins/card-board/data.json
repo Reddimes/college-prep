@@ -8,6 +8,25 @@
             "tag": "namedTag",
             "data": {
               "collapsed": false,
+              "name": "Daily",
+              "tag": "Daily"
+            }
+          },
+          {
+            "tag": "dated",
+            "data": {
+              "collapsed": false,
+              "name": "Dated",
+              "range": {
+                "tag": "after",
+                "data": 0
+              }
+            }
+          },
+          {
+            "tag": "namedTag",
+            "data": {
+              "collapsed": false,
               "name": "Personal",
               "tag": "Personal"
             }
@@ -23,7 +42,7 @@
           {
             "tag": "untagged",
             "data": {
-              "collapsed": false,
+              "collapsed": true,
               "name": "Untagged"
             }
           },
@@ -37,8 +56,8 @@
           {
             "tag": "completed",
             "data": {
-              "collapsed": true,
-              "index": 4,
+              "collapsed": false,
+              "index": 6,
               "limit": 10,
               "name": "Completed"
             }
