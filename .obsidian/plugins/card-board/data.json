@@ -51,35 +51,12 @@
             }
           },
           {
-            "tag": "namedTag",
-            "data": {
-              "collapsed": false,
-              "name": "Personal",
-              "tag": "Personal"
-            }
-          },
-          {
-            "tag": "namedTag",
-            "data": {
-              "collapsed": false,
-              "name": "To-do",
-              "tag": "To-do"
-            }
-          },
-          {
             "tag": "completed",
             "data": {
               "collapsed": false,
-              "index": 6,
+              "index": 4,
               "limit": 1000,
               "name": "Completed"
-            }
-          },
-          {
-            "tag": "untagged",
-            "data": {
-              "collapsed": true,
-              "name": "Untagged"
             }
           },
           {
@@ -87,6 +64,13 @@
             "data": {
               "collapsed": true,
               "name": "Other Tags"
+            }
+          },
+          {
+            "tag": "untagged",
+            "data": {
+              "collapsed": true,
+              "name": "Untagged"
             }
           }
         ],
