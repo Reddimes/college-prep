@@ -8,6 +8,20 @@
             "tag": "dated",
             "data": {
               "collapsed": false,
+              "name": "Today",
+              "range": {
+                "tag": "between",
+                "data": {
+                  "from": 0,
+                  "to": 0
+                }
+              }
+            }
+          },
+          {
+            "tag": "dated",
+            "data": {
+              "collapsed": false,
               "name": "Tomorrow",
               "range": {
                 "tag": "between",
@@ -22,13 +36,10 @@
             "tag": "dated",
             "data": {
               "collapsed": false,
-              "name": "Today",
+              "name": "Future",
               "range": {
-                "tag": "between",
-                "data": {
-                  "from": 0,
-                  "to": 0
-                }
+                "tag": "after",
+                "data": 1
               }
             }
           },
@@ -59,7 +70,7 @@
             "tag": "completed",
             "data": {
               "collapsed": false,
-              "index": 5,
+              "index": 6,
               "limit": 1000,
               "name": "Completed"
             }
