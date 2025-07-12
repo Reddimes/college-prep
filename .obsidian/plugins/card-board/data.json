@@ -19,6 +19,20 @@
             }
           },
           {
+            "tag": "dated",
+            "data": {
+              "collapsed": false,
+              "name": "Tomorrow",
+              "range": {
+                "tag": "between",
+                "data": {
+                  "from": 1,
+                  "to": 1
+                }
+              }
+            }
+          },
+          {
             "tag": "namedTag",
             "data": {
               "collapsed": false,
@@ -38,7 +52,7 @@
             "tag": "completed",
             "data": {
               "collapsed": false,
-              "index": 3,
+              "index": 4,
               "limit": 1000,
               "name": "Completed"
             }
