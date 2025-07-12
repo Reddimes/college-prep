@@ -8,14 +8,6 @@
             "tag": "namedTag",
             "data": {
               "collapsed": false,
-              "name": "Daily",
-              "tag": "Daily"
-            }
-          },
-          {
-            "tag": "namedTag",
-            "data": {
-              "collapsed": false,
               "name": "Personal",
               "tag": "Personal"
             }
@@ -29,11 +21,22 @@
             }
           },
           {
+            "tag": "dated",
+            "data": {
+              "collapsed": false,
+              "name": "Today",
+              "range": {
+                "tag": "before",
+                "data": 0
+              }
+            }
+          },
+          {
             "tag": "completed",
             "data": {
               "collapsed": false,
               "index": 3,
-              "limit": 10,
+              "limit": 1000,
               "name": "Completed"
             }
           },
@@ -73,7 +76,7 @@
       "filters": [],
       "firstDayOfWeek": "FromLocale",
       "ignoreFileNameDates": false,
-      "taskCompletionFormat": "ObsidianCardBoard",
+      "taskCompletionFormat": "ObsidianTasks",
       "taskCompletionInLocalTime": true,
       "taskCompletionShowUtcOffset": true
     }

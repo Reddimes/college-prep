@@ -3,7 +3,7 @@ tags:
   - Personal
 ---
 - [ ] Organize Tools
-- [ ] Rebuild OMV
+- [ ] Rebuild OMV @due(20250712)
 	- [x] File Transfer
 	- [ ] Fix File Permissions
 	- [ ] Need to transfer containers and run some setup
