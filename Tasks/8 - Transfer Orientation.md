@@ -1,3 +1,8 @@
+---
+tags:
+  - To-Do
+---
+
 - [ ] Disclosure link.
 - [ ] Orientation Questions
 	- [ ] What classes can I take?
