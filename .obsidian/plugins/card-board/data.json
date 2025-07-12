@@ -5,6 +5,20 @@
       {
         "columns": [
           {
+            "tag": "dated",
+            "data": {
+              "collapsed": false,
+              "name": "Today",
+              "range": {
+                "tag": "between",
+                "data": {
+                  "from": 0,
+                  "to": 0
+                }
+              }
+            }
+          },
+          {
             "tag": "namedTag",
             "data": {
               "collapsed": false,
@@ -18,17 +32,6 @@
               "collapsed": false,
               "name": "To-do",
               "tag": "To-do"
-            }
-          },
-          {
-            "tag": "dated",
-            "data": {
-              "collapsed": false,
-              "name": "Today",
-              "range": {
-                "tag": "before",
-                "data": 0
-              }
             }
           },
           {
