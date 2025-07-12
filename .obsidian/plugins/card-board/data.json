@@ -13,17 +13,6 @@
             }
           },
           {
-            "tag": "dated",
-            "data": {
-              "collapsed": false,
-              "name": "Dated",
-              "range": {
-                "tag": "after",
-                "data": 0
-              }
-            }
-          },
-          {
             "tag": "namedTag",
             "data": {
               "collapsed": false,
@@ -40,6 +29,15 @@
             }
           },
           {
+            "tag": "completed",
+            "data": {
+              "collapsed": false,
+              "index": 3,
+              "limit": 10,
+              "name": "Completed"
+            }
+          },
+          {
             "tag": "untagged",
             "data": {
               "collapsed": true,
@@ -51,15 +49,6 @@
             "data": {
               "collapsed": true,
               "name": "Other Tags"
-            }
-          },
-          {
-            "tag": "completed",
-            "data": {
-              "collapsed": false,
-              "index": 6,
-              "limit": 10,
-              "name": "Completed"
             }
           }
         ],
