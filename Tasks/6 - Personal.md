@@ -16,3 +16,4 @@ tags:
 		- [ ] Forward Testing
 		- [ ] Live Trading?
 - [ ] Meal Planning 📅 2025-07-12
+- [ ] Sell Car
