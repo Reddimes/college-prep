@@ -5,58 +5,26 @@
       {
         "columns": [
           {
-            "tag": "dated",
+            "tag": "namedTag",
             "data": {
               "collapsed": false,
-              "name": "Today",
-              "range": {
-                "tag": "between",
-                "data": {
-                  "from": 0,
-                  "to": 0
-                }
-              }
+              "name": "Personal",
+              "tag": "Personal"
             }
           },
           {
-            "tag": "dated",
+            "tag": "namedTag",
             "data": {
               "collapsed": false,
-              "name": "Tomorrow",
-              "range": {
-                "tag": "between",
-                "data": {
-                  "from": 1,
-                  "to": 1
-                }
-              }
+              "name": "To-do",
+              "tag": "To-do"
             }
           },
           {
-            "tag": "dated",
+            "tag": "untagged",
             "data": {
-              "collapsed": false,
-              "name": "Future",
-              "range": {
-                "tag": "after",
-                "data": 1
-              }
-            }
-          },
-          {
-            "tag": "undated",
-            "data": {
-              "collapsed": false,
-              "name": "Undated"
-            }
-          },
-          {
-            "tag": "completed",
-            "data": {
-              "collapsed": false,
-              "index": 4,
-              "limit": 1000,
-              "name": "Completed"
+              "collapsed": true,
+              "name": "Untagged"
             }
           },
           {
@@ -67,10 +35,12 @@
             }
           },
           {
-            "tag": "untagged",
+            "tag": "completed",
             "data": {
-              "collapsed": true,
-              "name": "Untagged"
+              "collapsed": false,
+              "index": 4,
+              "limit": 10,
+              "name": "Completed"
             }
           }
         ],
@@ -95,7 +65,7 @@
       "filters": [],
       "firstDayOfWeek": "FromLocale",
       "ignoreFileNameDates": false,
-      "taskCompletionFormat": "ObsidianTasks",
+      "taskCompletionFormat": "ObsidianCardBoard",
       "taskCompletionInLocalTime": true,
       "taskCompletionShowUtcOffset": true
     }

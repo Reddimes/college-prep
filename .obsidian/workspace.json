@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "de792240b8132186",
+        "id": "6fcb0e4af1e81cc2",
         "type": "tabs",
         "children": [
           {
-            "id": "2ae6db52374cbfa0",
+            "id": "8318914fa9c21645",
             "type": "leaf",
             "state": {
               "type": "card-board-view",
@@ -182,7 +182,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 558.5
+    "width": 414.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -196,23 +196,18 @@
       "card-board:CardBoard": false
     }
   },
-  "active": "2ae6db52374cbfa0",
+  "active": "3b6f989dd82ed223",
   "lastOpenFiles": [
-    "Tasks/6 - Personal.md",
-    "Tasks/8 - Transfer Orientation.md",
     "Tasks/7 - Disability.md",
-    "Tasks/Daily/2025-07-12.md",
-    "Tasks/1 - Financial.md",
-    "Tasks/Daily",
-    "CAFSA.md",
+    "Tasks/8 - Transfer Orientation.md",
     "nprc.gov.md",
-    "Testing.md",
-    "Tasks/3 - Clubs.md",
+    "Tasks/6 - Personal.md",
+    "conflict-files-obsidian-git.md",
+    "Tasks/1 - Financial.md",
     "Tasks/5 - Classes.md",
-    "Tasks/4 - Military.md",
     "Tasks/2 - Prerequisites.md",
-    "Notes/Honor Society.md",
-    "Notes",
+    "Tasks/4 - Military.md",
+    "Tasks/3 - Clubs.md",
     "Transfers.md",
     "Full Prep.md",
     "FAFSA.md",
