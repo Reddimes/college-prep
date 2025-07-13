@@ -5,40 +5,67 @@
       {
         "columns": [
           {
-            "tag": "namedTag",
+            "tag": "dated",
             "data": {
               "collapsed": false,
-              "name": "Personal",
-              "tag": "Personal"
+              "name": "Overdue",
+              "range": {
+                "tag": "before",
+                "data": 0
+              }
             }
           },
           {
-            "tag": "namedTag",
+            "tag": "dated",
             "data": {
               "collapsed": false,
-              "name": "To-do",
-              "tag": "To-do"
+              "name": "Today",
+              "range": {
+                "tag": "between",
+                "data": {
+                  "from": 0,
+                  "to": 0
+                }
+              }
             }
           },
           {
-            "tag": "untagged",
+            "tag": "dated",
             "data": {
-              "collapsed": true,
-              "name": "Untagged"
+              "collapsed": false,
+              "name": "Tomorrow",
+              "range": {
+                "tag": "between",
+                "data": {
+                  "from": 1,
+                  "to": 1
+                }
+              }
             }
           },
           {
-            "tag": "otherTags",
+            "tag": "dated",
             "data": {
-              "collapsed": true,
-              "name": "Other Tags"
+              "collapsed": false,
+              "name": "Future",
+              "range": {
+                "tag": "after",
+                "data": 1
+              }
+            }
+          },
+          {
+            "tag": "undated",
+            "data": {
+              "collapsed": false,
+              "name": "Undated"
             }
           },
           {
             "tag": "completed",
             "data": {
               "collapsed": false,
-              "index": 4,
+              "index": 5,
               "limit": 10,
               "name": "Completed"
             }

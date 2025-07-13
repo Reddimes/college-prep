@@ -3,11 +3,11 @@ tags:
   - Personal
 ---
 - [ ] Organize Tools
-- [ ] Rebuild OMV 📅 2025-07-12
+- [ ] Rebuild OMV @due(2025-07-13)
 	- [x] File Transfer
 	- [ ] Fix File Permissions
 	- [ ] Need to transfer containers and run some setup
-- [ ] Exercise 📅 2025-07-12
+- [ ] Exercise @due(2025-07-13)
 	- [ ] TRX
 		- [ ] Need planned workouts
 - [ ] Algo-Trading
@@ -15,5 +15,5 @@ tags:
 	- [ ] Plan K8S Deployment
 		- [ ] Forward Testing
 		- [ ] Live Trading?
-- [ ] Meal Planning 📅 2025-07-12
+- [ ] Meal Planning @due(2025-07-13)
 - [ ] Sell Car
