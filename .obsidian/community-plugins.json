@@ -1,5 +1,7 @@
 [
   "obsidian-git",
   "git-file-explorer",
-  "card-board"
+  "card-board",
+  "dataview",
+  "obsidian-style-settings"
 ]

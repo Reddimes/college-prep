@@ -5,7 +5,7 @@ tags:
 - [ ] Organize Tools
 - [ ] Rebuild OMV @due(2025-07-13)
 	- [x] File Transfer
-	- [ ] Fix File Permissions
+	- [x] Fix File Permissions @completed(2025-07-13T22:15:27-06:00)
 	- [ ] Need to transfer containers and run some setup
 - [ ] Exercise @due(2025-07-13)
 	- [ ] TRX
