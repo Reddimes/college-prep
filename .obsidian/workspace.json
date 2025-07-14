@@ -178,11 +178,12 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 414.5
+    "width": 414.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -197,18 +198,18 @@
       "card-board:CardBoard": false
     }
   },
-  "active": "dd16e4e2262e9f3b",
+  "active": "8318914fa9c21645",
   "lastOpenFiles": [
+    "8 - Transfer Orientation.md",
+    "Tasks/1 - Financial.md",
     "Untitled.md",
     "Excalidraw/Drawing 2025-07-14 12.07.16.excalidraw.md",
     "Excalidraw/Drawing 2025-07-14 12.05.56.excalidraw.md",
     "Excalidraw/Drawing 2025-07-14 12.04.33.excalidraw.md",
     "Excalidraw",
     "Excalidraw/Drawing 2025-07-14 11.57.17.excalidraw.md",
-    "Tasks/1 - Financial.md",
     "Excalidraw/Drawing 2025-07-14 11.57.04.excalidraw.md",
     "Excalidraw/Untitled.md",
-    "Tasks/8 - Transfer Orientation.md",
     "Tasks/6 - Personal.md",
     "Tasks/7 - Disability.md",
     "Test.md",
