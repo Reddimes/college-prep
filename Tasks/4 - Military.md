@@ -7,7 +7,7 @@ tags:
 - [x] Apply for VA Benefits
 - [x] Apply to CU Denver and be admitted.
 - [x] [FAFSA](https://studentaid.gov/h/apply-for-aid/fafsa) @completed(2025-07-01T11:21:05-06:00)
-- [x] Transfer Orientation @completed(2025-07-10T10:03:13-06:00)
+- [x] Transfer Orientation ✅ 2025-07-14
 	- [x] Register
 	- [ ] Attend
 - [ ] Register and Enroll in Classes
