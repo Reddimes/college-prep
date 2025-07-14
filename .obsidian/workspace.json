@@ -51,7 +51,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Test.md",
+                "file": "Test/Test.md",
                 "mode": "source",
                 "source": false
               },
@@ -243,16 +243,18 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "dd16e4e2262e9f3b",
+  "active": "0319985017d95a2a",
   "lastOpenFiles": [
-    "Templates",
     "Calendar.md",
-    "Test.md",
+    "Test/Test.md",
+    "Templates/Task Template.md",
+    "Test",
+    "Tasks/1 - Financial.md",
+    "Templates",
     "Tasks/8 - Transfer Orientation.md",
     "Notes/CPP.md",
     "Tasks/4 - Military.md",
     "Untitled Kanban.md",
-    "Tasks/1 - Financial.md",
     "Excalidraw/Drawing 2025-07-14 12.07.16.excalidraw.md",
     "Excalidraw/Drawing 2025-07-14 12.05.56.excalidraw.md",
     "Excalidraw/Drawing 2025-07-14 12.04.33.excalidraw.md",
