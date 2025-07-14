@@ -4,4 +4,4 @@ due: 2025-07-14
 status: 
 complete: false
 ---
-- [ ] Test @due(2025-07-14)
+- [ ] Test 📅2025-07-14

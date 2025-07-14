@@ -9,7 +9,7 @@ tags:
 - [ ] CSCI2312 - Object Oriented Programming 
 - [ ] CSCI1510 - Logic @due(2025-07-13)
 - [ ] MATH 2411 - Calculus II
-- [ ] ARTS @due(2025-07-14)
+- [ ] ARTS @due(2025-07-15)
 - [ ] ~PHYS~ 
 	- [ ] This will bring me back up to 18 credits.
 - [ ] Financial Aid Office - CU Denver 
