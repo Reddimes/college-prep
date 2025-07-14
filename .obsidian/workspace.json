@@ -31,8 +31,7 @@
               "title": "Test"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -211,7 +210,7 @@
       "card-board:CardBoard": false
     }
   },
-  "active": "8cfa292a24eb70fb",
+  "active": "8318914fa9c21645",
   "lastOpenFiles": [
     "Test.md",
     "Tasks/7 - Disability.md",
