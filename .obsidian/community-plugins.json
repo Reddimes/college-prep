@@ -1,9 +1,9 @@
 [
   "obsidian-git",
   "git-file-explorer",
-  "card-board",
   "dataview",
   "obsidian-style-settings",
   "obsidian-excalidraw-plugin",
-  "obsidian-math-plus"
+  "obsidian-math-plus",
+  "obsidian-kanban"
 ]
