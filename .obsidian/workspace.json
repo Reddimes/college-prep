@@ -4,25 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "048e9a54e2b54ba8",
+        "id": "8934c56ba9709ee5",
         "type": "tabs",
         "children": [
           {
-            "id": "63e2c1f860af3e82",
+            "id": "696423563403f7ad",
             "type": "leaf",
             "state": {
-              "type": "kanban",
-              "state": {
-                "file": "Untitled Kanban.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false
-                  ]
-                }
-              },
-              "icon": "lucide-trello",
-              "title": "Untitled Kanban"
+              "type": "card-board-view",
+              "state": {},
+              "icon": "card-board",
+              "title": "CardBoard"
             }
           }
         ]
@@ -207,7 +199,7 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "63e2c1f860af3e82",
+  "active": "696423563403f7ad",
   "lastOpenFiles": [
     "Untitled Kanban.md",
     "8 - Transfer Orientation.md",
