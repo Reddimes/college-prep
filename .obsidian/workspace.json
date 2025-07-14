@@ -178,12 +178,11 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 414.5,
-    "collapsed": true
+    "width": 414.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -200,8 +199,10 @@
   },
   "active": "dd16e4e2262e9f3b",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2025-07-14 12.04.33.excalidraw.md",
+    "Untitled.md",
+    "Excalidraw/Drawing 2025-07-14 12.07.16.excalidraw.md",
     "Excalidraw/Drawing 2025-07-14 12.05.56.excalidraw.md",
+    "Excalidraw/Drawing 2025-07-14 12.04.33.excalidraw.md",
     "Excalidraw",
     "Excalidraw/Drawing 2025-07-14 11.57.17.excalidraw.md",
     "Tasks/1 - Financial.md",
