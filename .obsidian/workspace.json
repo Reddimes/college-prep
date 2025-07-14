@@ -28,9 +28,33 @@
               "icon": "excalidraw-icon",
               "title": "Drawing 2025-07-14 11.57.17.excalidraw"
             }
+          },
+          {
+            "id": "1fd1df9ccbecd023",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2025-07-14 11.57.17.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-07-14 11.57.17.excalidraw"
+            }
+          },
+          {
+            "id": "e6c72d8a7c0a9e50",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2025-07-14 11.57.17.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-07-14 11.57.17.excalidraw"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -211,8 +235,9 @@
       "card-board:CardBoard": false
     }
   },
-  "active": "715c2faf0488a11f",
+  "active": "e6c72d8a7c0a9e50",
   "lastOpenFiles": [
+    "Tasks/1 - Financial.md",
     "Excalidraw/Drawing 2025-07-14 11.57.17.excalidraw.md",
     "Excalidraw/Drawing 2025-07-14 11.57.04.excalidraw.md",
     "Excalidraw/Untitled.md",
@@ -223,7 +248,6 @@
     "Test.md",
     "nprc.gov.md",
     "conflict-files-obsidian-git.md",
-    "Tasks/1 - Financial.md",
     "Tasks/5 - Classes.md",
     "Tasks/2 - Prerequisites.md",
     "Tasks/4 - Military.md",
