@@ -18,17 +18,17 @@
             }
           },
           {
-            "id": "4b94f5f80c70d261",
+            "id": "01edcb52909862cf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tasks/8 - Transfer Orientation.md",
+                "file": "Tasks/6 - Personal.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "8 - Transfer Orientation"
+              "title": "6 - Personal"
             }
           }
         ],
@@ -197,8 +197,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 414.5,
-    "collapsed": true
+    "width": 414.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -212,14 +211,14 @@
       "card-board:CardBoard": false
     }
   },
-  "active": "4b94f5f80c70d261",
+  "active": "01edcb52909862cf",
   "lastOpenFiles": [
-    "Tasks/7 - Disability.md",
+    "Tasks/1 - Financial.md",
     "Tasks/8 - Transfer Orientation.md",
+    "Tasks/7 - Disability.md",
     "nprc.gov.md",
     "Tasks/6 - Personal.md",
     "conflict-files-obsidian-git.md",
-    "Tasks/1 - Financial.md",
     "Tasks/5 - Classes.md",
     "Tasks/2 - Prerequisites.md",
     "Tasks/4 - Military.md",
