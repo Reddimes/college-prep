@@ -1,4 +1,4 @@
 ```dataview
-CALENDAR date(due, "yyyy-MM-dd")
+CALENDAR date(due)
 FROM "Test"
 ```
