@@ -30,9 +30,23 @@
               "icon": "lucide-file",
               "title": "1 - Financial"
             }
+          },
+          {
+            "id": "6436e144bdfb80c3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Calendar.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Calendar"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -214,8 +228,10 @@
       "card-board:CardBoard": false
     }
   },
-  "active": "837274cd24c8eb03",
+  "active": "6436e144bdfb80c3",
   "lastOpenFiles": [
+    "Tasks/1 - Financial.md",
+    "Calendar.md",
     "Templates/Task Template.md",
     "Test/Test.md",
     "Calendar.md",
@@ -223,7 +239,6 @@
     "Test/Test2.md",
     "Tasks/8 - Transfer Orientation.md",
     "Test",
-    "Tasks/1 - Financial.md",
     "Templates",
     "Notes/CPP.md",
     "Tasks/4 - Military.md",
