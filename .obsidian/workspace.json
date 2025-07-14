@@ -18,13 +18,13 @@
             }
           },
           {
-            "id": "00cfee9a7703aec7",
+            "id": "43ee34244831816c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Tasks/8 - Transfer Orientation.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
@@ -214,11 +214,11 @@
       "card-board:CardBoard": false
     }
   },
-  "active": "00cfee9a7703aec7",
+  "active": "43ee34244831816c",
   "lastOpenFiles": [
+    "Tasks/8 - Transfer Orientation.md",
     "CSCI/First Task.md",
     "CSCI/Calendar.md",
-    "Tasks/8 - Transfer Orientation.md",
     "2025-07-14.md",
     "Tasks/1 - Financial.md",
     "Tasks/2 - Prerequisites.md",
