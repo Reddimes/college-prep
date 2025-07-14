@@ -46,7 +46,7 @@
             }
           },
           {
-            "id": "43b92039938b9187",
+            "id": "866a3dc09bd716bc",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -242,12 +242,12 @@
       "card-board:CardBoard": false
     }
   },
-  "active": "43b92039938b9187",
+  "active": "866a3dc09bd716bc",
   "lastOpenFiles": [
+    "2025-07-13.md",
+    "Calendar.md",
     "Test/Test.md",
-    "Calendar.md",
     "Test/Test2.md",
-    "Calendar.md",
     "Templates/Task Template.md",
     "Tasks/8 - Transfer Orientation.md",
     "Test",
@@ -272,7 +272,6 @@
     "Tasks/3 - Clubs.md",
     "Transfers.md",
     "Full Prep.md",
-    "FAFSA.md",
     "Tasks"
   ]
 }
