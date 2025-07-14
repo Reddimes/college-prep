@@ -1,4 +1,4 @@
 ```dataview
-CALENDAR
+TASK
 FROM "Tasks"
 ```
