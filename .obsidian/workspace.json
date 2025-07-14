@@ -16,21 +16,8 @@
               "icon": "card-board",
               "title": "CardBoard"
             }
-          },
-          {
-            "id": "bcc68e66a84c62da",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2025-07-14 12.04.33.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2025-07-14 12.04.33.excalidraw"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -211,7 +198,7 @@
       "card-board:CardBoard": false
     }
   },
-  "active": "bcc68e66a84c62da",
+  "active": "dd16e4e2262e9f3b",
   "lastOpenFiles": [
     "Excalidraw/Drawing 2025-07-14 12.04.33.excalidraw.md",
     "Excalidraw",
