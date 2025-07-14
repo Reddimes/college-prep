@@ -66,7 +66,7 @@
             "data": {
               "collapsed": false,
               "index": 5,
-              "limit": 10,
+              "limit": 10000,
               "name": "Completed"
             }
           }
