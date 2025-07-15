@@ -2,7 +2,7 @@
 tags:
   - Personal
 ---
-- [ ] Organize Tools
+- [x] Organize Tools
 - [ ] Rebuild OMV 📅 2025-07-13
 	- [x] File Transfer
 	- [ ] Fix File Permissions
