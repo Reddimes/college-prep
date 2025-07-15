@@ -13,6 +13,4 @@ tags:
 - [ ] ~PHYS~  📅 2025-07-15
 	- [ ] This will bring me back up to 18 credits.
 - [x] Financial Aid Office - CU Denver  ✅ 2025-07-14
-- [ ] Form for overload in Downloads 
-- [ ] {{date}}
-- [ ] 
+- [ ] Form for overload in Downloads
