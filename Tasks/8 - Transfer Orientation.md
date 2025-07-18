@@ -10,7 +10,7 @@ tags:
 - [x] CSCI1510 - Logic 📅 2025-07-13
 - [x] MATH 2411 - Calculus II 📅 2025-07-13
 - [x] ARTS 📅 2025-07-14
-- [ ] ~PHYS~  📅 2025-07-15
+- [x] ~PHYS~  📅 2025-07-15 ✅ 2025-07-18
 	- [ ] This will bring me back up to 18 credits.
 - [x] Financial Aid Office - CU Denver  ✅ 2025-07-14
 - [ ] Form for overload in Downloads
