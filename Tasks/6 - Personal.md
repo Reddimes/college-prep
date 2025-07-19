@@ -15,5 +15,5 @@ tags:
 	- [ ] Plan K8S Deployment
 		- [ ] Forward Testing
 		- [ ] Live Trading?
-- [ ] Meal Planning 📅 2025-07-13
+- [ ] Meal Planning 📅 2025-07-21
 - [ ] Sell Car
