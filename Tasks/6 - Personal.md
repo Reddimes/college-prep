@@ -7,7 +7,7 @@ tags:
 	- [x] File Transfer
 	- [ ] Fix File Permissions
 	- [ ] Need to transfer containers and run some setup
-- [ ] Exercise 📅 2025-07-13
+- [ ] Exercise 📅 2025-07-21
 	- [ ] TRX
 		- [ ] Need planned workouts
 - [ ] Algo-Trading
