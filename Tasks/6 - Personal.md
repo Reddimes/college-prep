@@ -3,10 +3,10 @@ tags:
   - Personal
 ---
 - [x] Organize Tools
-- [ ] Rebuild OMV 📅 2025-07-13
+- [x] Rebuild OMV 📅 2025-07-13 ✅ 2025-07-25
 	- [x] File Transfer
-	- [ ] Fix File Permissions
-	- [ ] Need to transfer containers and run some setup
+	- [x] Fix File Permissions ✅ 2025-07-25
+	- [x] Need to transfer containers and run some setup ✅ 2025-07-25
 - [ ] Exercise 📅 2025-07-21
 	- [ ] TRX
 		- [ ] Need planned workouts
