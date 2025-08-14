@@ -4,36 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "e681648dac2cf88c",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "d67b027a0d0f0c87",
-            "type": "leaf",
-            "state": {
-              "type": "card-board-view",
-              "state": {},
-              "icon": "card-board",
-              "title": "CardBoard"
-            }
-          },
-          {
-            "id": "8f911cd22c57e39d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tasks/6 - Personal.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "6 - Personal"
-            }
-          }
-        ]
-      },
-      {
         "id": "ccd5084c40250e46",
         "type": "tabs",
         "children": [
@@ -43,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tasks/7 - Disability.md",
+                "file": "Tasks/9 - Financial Aid.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "7 - Disability"
+              "title": "9 - Financial Aid"
             }
           }
         ]
@@ -249,13 +219,16 @@
       "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false,
       "obsidian-excalidraw-plugin:New drawing": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "card-board:CardBoard": false
     }
   },
   "active": "2675356c907865ee",
   "lastOpenFiles": [
-    "Tasks/5 - Classes.md",
     "Tasks/8 - Transfer Orientation.md",
+    "Tasks/9 - Financial Aid.md",
+    "Tasks/7 - Disability.md",
+    "Tasks/5 - Classes.md",
     "CSCI/Calendar.md",
     "Untitled.md",
     "CSCI/First Task.md",
@@ -265,7 +238,6 @@
     "Tasks/3 - Clubs.md",
     "Tasks/4 - Military.md",
     "Tasks/6 - Personal.md",
-    "Tasks/7 - Disability.md",
     "CSCI/2025-07-14.md",
     "Templates/Task Template.md",
     "CSCI",
@@ -283,7 +255,6 @@
     "Excalidraw",
     "Excalidraw/Drawing 2025-07-14 11.57.17.excalidraw.md",
     "Excalidraw/Drawing 2025-07-14 11.57.04.excalidraw.md",
-    "Excalidraw/Untitled.md",
     "Tasks"
   ]
 }
